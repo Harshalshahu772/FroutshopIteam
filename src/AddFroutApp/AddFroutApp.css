@@ -1,0 +1,78 @@
+body{
+    background-color: antiquewhite;
+    
+
+   
+}
+.childconatnair{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(220, 239, 238);
+    width: 62%;
+    height: 50%;
+    margin: 17px;
+    padding: 9px;
+    position: relative;
+    top: 162px;
+    left: 109px;
+}
+
+.btnColor{
+    background-color: aqua;
+    width: 40px;
+    height: 36px;
+    border-radius: 20px
+}
+.container {
+    background-color: #dbe3b9;
+    width: 65%;
+    height: 52%;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 83px;
+    justify-content: center;
+    display: inline-block;
+  }
+  
+  /* You can add more styles to the input and button if required */
+  .container input {
+    width: 100%;
+    padding: 5px;
+  }
+  
+  .container button {
+    background-color: #1e90ff;
+    color: white;
+   
+    cursor: pointer;
+  }
+  .container {
+    background-color: #b6b68a;
+    width: 35%;
+    height: 50%;
+    justify-content: center;
+    padding: 10px;
+  }
+  
+  /* You can add more styles to the input and button if required */
+  .container input {
+    width: 100%;
+    padding: 5px;
+  }
+  
+  .container button {
+    background-color: #1e90ff;
+    color: white;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  li{
+    list-style: none;
+  }
+  .deletIconeContanier{
+    display: flex;
+    position: relative;
+    left: -101px;
+}
+  
